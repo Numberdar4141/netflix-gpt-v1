@@ -1,10 +1,9 @@
-import "./App.css";
+import Page from "./components/Page";
 
 function App() {
-
   return (
     <>
-      <h1 className="text-3xl bg-amber-500">Vite + React</h1>
+      <Page />
     </>
   );
 }
